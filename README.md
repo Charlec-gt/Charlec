@@ -1,7 +1,7 @@
 # 👋 Hello, I'm Charles Muema!  
 
-🎓 **Student at IYF Academy**  
-📚 Studying **Computer and Electronic Systems Engineering**  
+🎓 **Student at Mount Kenya Univbersity & IYF Academy**  
+📚 Studying **Computer and Electronic Systems Engineering at Mount Kenya University and Web Development at IYF Academy**  
 🚀 Passionate about **technology** and continuously learning new skills  
 
 ---
